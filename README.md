@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zmcg3000
+- 👋 Hi, I’m @zmcg
 - 👀 I’m interested in programming and web development
 - 🌱 I’m currently learning Python, C#, Java, JavaScript, HTML, CSS, PHP, SQL, Solidity
 - 💞️ I’m looking to collaborate on open source projects utilizing blockchain technology
